@@ -19,7 +19,7 @@
             "required": true
         },
         "HNDLR": {
-            "description": " يفضل تركها كما هي",
+            "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
             "required": false,
             "value": "!"
         },
