@@ -26,7 +26,7 @@ from Python_ARQ import ARQ
 from config import HNDLR
 from Musicjmthon.helpers.merrors import capture_err
 
-ARQ_API_KEY = "QFOTZM-GSZUFY-CHGHRX-TDEHOZ-ARQ"
+ARQ_API_KEY = "HMPXNS-BDPCCB-UJKRPU-OQADHG-ARQ"
 aiohttpsession = aiohttp.ClientSession()
 arq = ARQ("https://thearq.tech", ARQ_API_KEY, aiohttpsession)
 
